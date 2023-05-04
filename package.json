@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "json-server": "^0.16.2"
+  },
+  "dependencies": {
+    "vercel": "^29.1.1"
   }
 }
