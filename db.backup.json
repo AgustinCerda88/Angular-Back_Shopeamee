@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Zapatos Vintage",
+      "price": 49.99,
+      "description": "Bellos zapatos antiguos para Hipsters.",
+      "stars": 4.5,
+      "image": "https://i.ibb.co/4j85tBM/shoes.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Máquina de escribir",
+      "price": 109.99,
+      "description": "Bonita máquina de escribir antigua.",
+      "stars": 4.2,
+      "image": "https://i.ibb.co/84zfbz0/maquina.jpg"
+    },
+    {
+      "name": "Lapiceros de colores",
+      "price": 1.99,
+      "description": "Estupendos bolígrafos de colores.",
+      "image": "https://i.ibb.co/s5m7HKt/lapiceros.jpg",
+      "stars": 1,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Pantalón",
+      "price": 49.99,
+      "description": "Pantalón de moto para evitar heridas.",
+      "stars": 4,
+      "image": "https://i.ibb.co/6nnVkNY/pantalon.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Cuaderno de colores",
+      "price": 7.25,
+      "description": "Excelente cuaderno para que apuntes tus clases.",
+      "stars": 3.5,
+      "image": "https://i.ibb.co/Jr3FHVd/cuaderno.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Jarabe marca blanca",
+      "price": 12.5,
+      "description": "No cura el COVID, pero está muy rico.",
+      "stars": 1,
+      "image": "https://i.ibb.co/mhgHWnf/jarabe.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Maceta de diseño",
+      "price": 9.99,
+      "description": "Maceta de diseño a precio económico.",
+      "stars": 5,
+      "image": "https://i.ibb.co/MZSrV6q/maceta.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Gato Persa",
+      "price": "50",
+      "description": "No sé si es legal vender animales online... Al menos en España.",
+      "image": "https://i.ibb.co/1zPPBjx/gato.jpg",
+      "stars": 3
+    },
+    {
+      "id": 10,
+      "name": "Lampara",
+      "price": "10",
+      "description": "Lampara de mesa de noche. Ideal para la habitación de les niñes.",
+      "image": "https://img.ltwebstatic.com/images3_pi/2021/12/24/16403232938552570273745b68cb19924fba8d9826_thumbnail_600x.webp",
+      "stars": "2"
+    },
+    {
+      "id": 11,
+      "name": "Vaso",
+      "price": "3",
+      "description": "perro",
+      "image": "https://distribucionesrivas.com/5736-home_default/vaso-chupito-cristal-resistente.jpg",
+      "stars": "3"
+    },
+    {
+      "id": 13,
+      "name": "Messi",
+      "price": "33",
+      "description": "MESSIRVE campeon del mundo!",
+      "image": "https://www.futbolemotion.com/imagesuploads/jugadores/10/grandes/1672733502Messi.png",
+      "stars": "★★★"
+    }
+  ]
+}
